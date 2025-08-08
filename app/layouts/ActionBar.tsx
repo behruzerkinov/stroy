@@ -21,7 +21,7 @@ const ActionBar = () => {
             <div className="w-full">
                 <form className="w-full bg-[#186FD4] rounded-md flex">
                     <input type="text" placeholder="Найти среди 50000 товаров. Например: Дрель Bosch"
-                           className="py-2 px-3 border border-3 border-[#186FD4] rounded-md focus:outline-none bg-white rounded-md w-full"/>
+                           className="py-2 px-3 border-3 border-[#186FD4] focus:outline-none bg-white rounded-md w-full"/>
                     <button type="submit" className="px-4 cursor-pointer">
                         <GoSearch className="text-white"/>
                     </button>
