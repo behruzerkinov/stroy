@@ -1,0 +1,56 @@
+{
+	"data": {
+		"imageSlider": [
+			{
+				"id": 1,
+				"image": "./images/sliderImgOne.webp"
+			},
+			{
+				"id": 2,
+				"image": "./images/sliderImgTwo.webp"
+			}
+		],
+		"storyCards": [
+			{
+				"id": 1,
+				"image": "/story-card-images/storyCardImgOne.webp",
+				"title": "Гипсокартон"
+			},
+			{
+				"id": 2,
+				"image": "/story-card-images/storyCardImgTwo.webp",
+				"title": "Сухие смеси"
+			},
+			{
+				"id": 3,
+				"image": "/story-card-images/storyCardImgThree.webp",
+				"title": "Водонагреватели, колонки"
+			},
+			{
+				"id": 4,
+				"image": "/story-card-images/storyCardImgFour.webp",
+				"title": "Мотоблоки"
+			},
+			{
+				"id": 5,
+				"image": "/story-card-images/storyCardImgFive.webp",
+				"title": "Обои виниловые"
+			},
+			{
+				"id": 6,
+				"image": "/story-card-images/storyCardImgSix.webp",
+				"title": "Краска эмаль"
+			},
+			{
+				"id": 7,
+				"image": "/story-card-images/storyCardImgSeven.webp",
+				"title": "Дрели, шуруповерты и гайковерты"
+			},
+			{
+				"id": 8,
+				"image": "/story-card-images/storyCardImgEight.webp",
+				"title": "Ламинат"
+			}
+		]
+	}
+}

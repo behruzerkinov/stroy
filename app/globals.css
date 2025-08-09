@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+/* .swiper-button-prev {
+} */
+
+.swiper-button-prev::after {
+	padding: 20px;
+	transform: scale(0.5);
+}
+
+.swiper-button-next::after {
+	transform: scale(0.5);
+}
+
+.swiper-button-prev:hover {
+	background: #fff;
+	color: #000;
+}
+
+.swiper-button-next:hover {
+	background: #fff;
+	color: #000;
+}

@@ -1,5 +1,3 @@
-import React from "react";
-
 const TopMenu = () => {
 	return (
 		<div className="flex items-center justify-between py-3">
@@ -22,7 +20,7 @@ const TopMenu = () => {
 				<div>
 					<p className="text-base font-bold">8 800 444 00 65</p>
 				</div>
-				<button className="rounded-sm bg-[#F2F6FC] text-[#2A5E8D] px-4 py-2 font-bold hover:bg-black hover:text-white transition-colors duration-200">
+				<button type="button" className="rounded-sm bg-[#F2F6FC] text-[#2A5E8D] px-4 py-2 font-bold hover:bg-black hover:text-white transition-colors duration-200">
 					Заказать звонок
 				</button>
 			</div>
